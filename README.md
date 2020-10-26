@@ -1,6 +1,3 @@
-# AngelPlayer-Game-Engine
-Is a simple Java 3D Game Engine.
-(not finished)
+# ShinoaDX
 
-It uses OpenGL?
-No.
+A Framework for making 2D/3D Games
