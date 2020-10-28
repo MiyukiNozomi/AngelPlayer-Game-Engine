@@ -3,7 +3,6 @@ package api.shinoa.sdx.sgl3d;
 import static api.shinoa.sdx.sgl3d.DX20.toPoint;
 
 import java.awt.Color;
-import java.awt.Graphics;
 import java.awt.Graphics2D;
 import java.awt.Point;
 
